@@ -1,0 +1,15 @@
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\bin\Debug\net9.0\Asteroide_per_consola.exe
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\bin\Debug\net9.0\Asteroide_per_consola.deps.json
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\bin\Debug\net9.0\Asteroide_per_consola.runtimeconfig.json
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\bin\Debug\net9.0\Asteroide_per_consola.dll
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\bin\Debug\net9.0\Asteroide_per_consola.pdb
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\obj\Debug\net9.0\Asteroide_per_consola.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\obj\Debug\net9.0\Asteroide_per_consola.AssemblyInfoInputs.cache
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\obj\Debug\net9.0\Asteroide_per_consola.AssemblyInfo.cs
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\obj\Debug\net9.0\Asteroide_per_consola.csproj.CoreCompileInputs.cache
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\obj\Debug\net9.0\Asteroide_per_consola.sourcelink.json
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\obj\Debug\net9.0\Asteroide_per_consola.dll
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\obj\Debug\net9.0\refint\Asteroide_per_consola.dll
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\obj\Debug\net9.0\Asteroide_per_consola.pdb
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\obj\Debug\net9.0\Asteroide_per_consola.genruntimeconfig.cache
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Asteroide_per_consola\obj\Debug\net9.0\ref\Asteroide_per_consola.dll

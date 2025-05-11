@@ -1,0 +1,15 @@
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\bin\Debug\net9.0\Sopar_dels_reis.exe
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\bin\Debug\net9.0\Sopar_dels_reis.deps.json
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\bin\Debug\net9.0\Sopar_dels_reis.runtimeconfig.json
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\bin\Debug\net9.0\Sopar_dels_reis.dll
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\bin\Debug\net9.0\Sopar_dels_reis.pdb
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\obj\Debug\net9.0\Sopar_dels_reis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\obj\Debug\net9.0\Sopar_dels_reis.AssemblyInfoInputs.cache
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\obj\Debug\net9.0\Sopar_dels_reis.AssemblyInfo.cs
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\obj\Debug\net9.0\Sopar_dels_reis.csproj.CoreCompileInputs.cache
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\obj\Debug\net9.0\Sopar_dels_reis.sourcelink.json
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\obj\Debug\net9.0\Sopar_dels_reis.dll
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\obj\Debug\net9.0\refint\Sopar_dels_reis.dll
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\obj\Debug\net9.0\Sopar_dels_reis.pdb
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\obj\Debug\net9.0\Sopar_dels_reis.genruntimeconfig.cache
+C:\Visual_estudio_Projectos\m09-t2-pr1-threads-i-tasks-TopTopsEnric\Projecto_Procesos\Sopar_dels_reis\obj\Debug\net9.0\ref\Sopar_dels_reis.dll

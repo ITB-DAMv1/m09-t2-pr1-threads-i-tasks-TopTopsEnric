@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}|Sopar_dels_reis\\Sopar_dels_reis.csproj|c:\\visual_estudio_projectos\\m09-t2-pr1-threads-i-tasks-toptopsenric\\projecto_procesos\\sopar_dels_reis\\comensal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}|Sopar_dels_reis\\Sopar_dels_reis.csproj|solutionrelative:sopar_dels_reis\\comensal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}|Sopar_dels_reis\\Sopar_dels_reis.csproj|c:\\visual_estudio_projectos\\m09-t2-pr1-threads-i-tasks-toptopsenric\\projecto_procesos\\sopar_dels_reis\\palet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}|Sopar_dels_reis\\Sopar_dels_reis.csproj|solutionrelative:sopar_dels_reis\\palet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}|Sopar_dels_reis\\Sopar_dels_reis.csproj|c:\\visual_estudio_projectos\\m09-t2-pr1-threads-i-tasks-toptopsenric\\projecto_procesos\\sopar_dels_reis\\simulacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}|Sopar_dels_reis\\Sopar_dels_reis.csproj|solutionrelative:sopar_dels_reis\\simulacio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}|Sopar_dels_reis\\Sopar_dels_reis.csproj|c:\\visual_estudio_projectos\\m09-t2-pr1-threads-i-tasks-toptopsenric\\projecto_procesos\\sopar_dels_reis\\registre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}|Sopar_dels_reis\\Sopar_dels_reis.csproj|solutionrelative:sopar_dels_reis\\registre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532F7FF0-F035-42A3-A15B-97A525B1ACE2}|Asteroide_per_consola\\Asteroide_per_consola.csproj|c:\\visual_estudio_projectos\\m09-t2-pr1-threads-i-tasks-toptopsenric\\projecto_procesos\\asteroide_per_consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532F7FF0-F035-42A3-A15B-97A525B1ACE2}|Asteroide_per_consola\\Asteroide_per_consola.csproj|solutionrelative:asteroide_per_consola\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532F7FF0-F035-42A3-A15B-97A525B1ACE2}|Asteroide_per_consola\\Asteroide_per_consola.csproj|c:\\visual_estudio_projectos\\m09-t2-pr1-threads-i-tasks-toptopsenric\\projecto_procesos\\asteroide_per_consola\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532F7FF0-F035-42A3-A15B-97A525B1ACE2}|Asteroide_per_consola\\Asteroide_per_consola.csproj|solutionrelative:asteroide_per_consola\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532F7FF0-F035-42A3-A15B-97A525B1ACE2}|Asteroide_per_consola\\Asteroide_per_consola.csproj|c:\\visual_estudio_projectos\\m09-t2-pr1-threads-i-tasks-toptopsenric\\projecto_procesos\\asteroide_per_consola\\asteroide_per_consola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{532F7FF0-F035-42A3-A15B-97A525B1ACE2}|Asteroide_per_consola\\Asteroide_per_consola.csproj|solutionrelative:asteroide_per_consola\\asteroide_per_consola.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532F7FF0-F035-42A3-A15B-97A525B1ACE2}|Asteroide_per_consola\\Asteroide_per_consola.csproj|c:\\visual_estudio_projectos\\m09-t2-pr1-threads-i-tasks-toptopsenric\\projecto_procesos\\asteroide_per_consola\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532F7FF0-F035-42A3-A15B-97A525B1ACE2}|Asteroide_per_consola\\Asteroide_per_consola.csproj|solutionrelative:asteroide_per_consola\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{532F7FF0-F035-42A3-A15B-97A525B1ACE2}|Asteroide_per_consola\\Asteroide_per_consola.csproj|c:\\visual_estudio_projectos\\m09-t2-pr1-threads-i-tasks-toptopsenric\\projecto_procesos\\asteroide_per_consola\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{532F7FF0-F035-42A3-A15B-97A525B1ACE2}|Asteroide_per_consola\\Asteroide_per_consola.csproj|solutionrelative:asteroide_per_consola\\asteroid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}|Sopar_dels_reis\\Sopar_dels_reis.csproj|c:\\visual_estudio_projectos\\m09-t2-pr1-threads-i-tasks-toptopsenric\\projecto_procesos\\sopar_dels_reis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}|Sopar_dels_reis\\Sopar_dels_reis.csproj|solutionrelative:sopar_dels_reis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Asteroide_per_consola.csproj",
+              "DocumentMoniker": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Asteroide_per_consola\\Asteroide_per_consola.csproj",
+              "RelativeDocumentMoniker": "Asteroide_per_consola\\Asteroide_per_consola.csproj",
+              "ToolTip": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Asteroide_per_consola\\Asteroide_per_consola.csproj",
+              "RelativeToolTip": "Asteroide_per_consola\\Asteroide_per_consola.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-11T16:39:46.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Asteroid.cs",
+              "DocumentMoniker": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Asteroide_per_consola\\Asteroid.cs",
+              "RelativeDocumentMoniker": "Asteroide_per_consola\\Asteroid.cs",
+              "ToolTip": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Asteroide_per_consola\\Asteroid.cs",
+              "RelativeToolTip": "Asteroide_per_consola\\Asteroid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:38:56.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Asteroide_per_consola\\Ship.cs",
+              "RelativeDocumentMoniker": "Asteroide_per_consola\\Ship.cs",
+              "ToolTip": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Asteroide_per_consola\\Ship.cs",
+              "RelativeToolTip": "Asteroide_per_consola\\Ship.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:38:21.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Asteroide_per_consola\\Game.cs",
+              "RelativeDocumentMoniker": "Asteroide_per_consola\\Game.cs",
+              "ToolTip": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Asteroide_per_consola\\Game.cs",
+              "RelativeToolTip": "Asteroide_per_consola\\Game.cs",
+              "ViewState": "AgIAAM4AAAAAAAAAAAAqwOcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T16:37:18.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Registre.cs",
+              "DocumentMoniker": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Sopar_dels_reis\\Registre.cs",
+              "RelativeDocumentMoniker": "Sopar_dels_reis\\Registre.cs",
+              "ToolTip": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Sopar_dels_reis\\Registre.cs",
+              "RelativeToolTip": "Sopar_dels_reis\\Registre.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAFsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:41:04.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Palet.cs",
+              "DocumentMoniker": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Sopar_dels_reis\\Palet.cs",
+              "RelativeDocumentMoniker": "Sopar_dels_reis\\Palet.cs",
+              "ToolTip": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Sopar_dels_reis\\Palet.cs",
+              "RelativeToolTip": "Sopar_dels_reis\\Palet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:40:20.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Comensal.cs",
+              "DocumentMoniker": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Sopar_dels_reis\\Comensal.cs",
+              "RelativeDocumentMoniker": "Sopar_dels_reis\\Comensal.cs",
+              "ToolTip": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Sopar_dels_reis\\Comensal.cs",
+              "RelativeToolTip": "Sopar_dels_reis\\Comensal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:38:59.996Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Simulacio.cs",
+              "DocumentMoniker": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Sopar_dels_reis\\Simulacio.cs",
+              "RelativeDocumentMoniker": "Sopar_dels_reis\\Simulacio.cs",
+              "ToolTip": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Sopar_dels_reis\\Simulacio.cs",
+              "RelativeToolTip": "Sopar_dels_reis\\Simulacio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:38:07Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Asteroide_per_consola\\Program.cs",
+              "RelativeDocumentMoniker": "Asteroide_per_consola\\Program.cs",
+              "ToolTip": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Asteroide_per_consola\\Program.cs",
+              "RelativeToolTip": "Asteroide_per_consola\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAwCoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:23:46.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Sopar_dels_reis\\Program.cs",
+              "RelativeDocumentMoniker": "Sopar_dels_reis\\Program.cs",
+              "ToolTip": "C:\\Visual_estudio_Projectos\\m09-t2-pr1-threads-i-tasks-TopTopsEnric\\Projecto_Procesos\\Sopar_dels_reis\\Program.cs",
+              "RelativeToolTip": "Sopar_dels_reis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-11T15:22:39.353Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

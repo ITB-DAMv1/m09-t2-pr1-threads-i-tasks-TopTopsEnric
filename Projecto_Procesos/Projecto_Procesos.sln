@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sopar_dels_reis", "Sopar_dels_reis\Sopar_dels_reis.csproj", "{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Asteroide_per_consola", "Asteroide_per_consola\Asteroide_per_consola.csproj", "{532F7FF0-F035-42A3-A15B-97A525B1ACE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D655BD37-5BE6-4C66-AD88-3A2D6E6EE1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{532F7FF0-F035-42A3-A15B-97A525B1ACE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{532F7FF0-F035-42A3-A15B-97A525B1ACE2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{532F7FF0-F035-42A3-A15B-97A525B1ACE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{532F7FF0-F035-42A3-A15B-97A525B1ACE2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE86DFFD-0E60-46AB-89F5-F6442EDF1A59}
+	EndGlobalSection
+EndGlobal
